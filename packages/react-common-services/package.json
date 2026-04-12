@@ -14,7 +14,7 @@
 		"lint:fix": "tsdx lint src --fix"
 	},
 	"dependencies": {
-		"axios": "^0.21.1",
+		"axios": "^1.15.0",
 		"broadcast-channel": "^4.0.0",
 		"jwt-decode": "^3.1.2",
 		"lodash": "^4.17.21",
